@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1fc9baf0-12e1-418c-9916-0c8e6025f8e1" width="50%" alt="Banner" />
+  <img src="https://github.com/user-attachments/assets/d93d3f63-7254-426f-a4cd-b0b97a7a2143" width="50%" alt="Banner" />
 </p>
+
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Developer+Learning+ML;Data+Science+Enthusiast;Python+%26+Analytics;Building+Cool+Stuff" alt="Typing SVG" />

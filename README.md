@@ -1,4 +1,8 @@
 ## Hi there 👋
+
+
+<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/cf70a52d-cf89-4289-99d9-d39b2bf364f5" />
+
 [![Smarpit's GitHub stats](https://github-stats-extended.vercel.app/api?username=smarpitm)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **smarpitm/smarpitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

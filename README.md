@@ -1,6 +1,7 @@
 
+
 <p align="center">
-  <img src="BANNER_URL_HERE" width="100%" alt="Banner" />
+  <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/1fc9baf0-12e1-418c-9916-0c8e6025f8e1" />
 </p>
 
 <h1 align="center">

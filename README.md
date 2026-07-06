@@ -1,9 +1,15 @@
-## Hi there 👋
+## Hi there 👋# Hi there 👋
+
+<img src="YOUR_PIXEL_ART_IMAGE_URL" width="100%" alt="Banner Art" />
+
+<br/>
+
+### 📊 GitHub Stats
+
+[![smarpitm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smarpitm&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/cf70a52d-cf89-4289-99d9-d39b2bf364f5" />
 
-[![Smarpit's GitHub stats](https://github-stats-extended.vercel.app/api?username=smarpitm)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **smarpitm/smarpitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

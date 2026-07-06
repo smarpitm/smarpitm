@@ -1,9 +1,22 @@
+&lt;p align="center"&gt;
+  &lt;img src="https://github.com/user-attachments/assets/1fc9baf0-12e1-418c-9916-0c8e6025f8e1" width="100%" alt="Banner" /&gt;
+&lt;/p&gt;
 
+&lt;h1 align="center"&gt;
+  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Developer+Learning+ML;Data+Science+Enthusiast;Python+%26+Analytics;Building+Cool+Stuff+🚀" alt="Typing SVG" /&gt;
+&lt;/h1&gt;
 
-<p align="center">
-  <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/1fc9baf0-12e1-418c-9916-0c8e6025f8e1" />
-</p>
+&lt;p align="center"&gt;
+  &lt;a href="https://github.com/smarpitm"&gt;&lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;a href="https://www.linkedin.com/in/smarpit-malik-518250289/"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;a href="mailto:smarpitmalik@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
+&lt;/p&gt;
 
+&lt;p align="center"&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=smarpitm&color=00D4FF&style=flat-square&label=Profile+Views" alt="Profile Views" /&gt;
+&lt;/p&gt;
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -19,6 +32,14 @@
   &lt;img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /&gt;
   &lt;img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /&gt;
   &lt;img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /&gt;
+&lt;/p&gt;
+
+---
+
+## 🏆 GitHub Trophies
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-profile-trophy.vercel.app/?username=smarpitm&theme=tokyonight&no-frame=true&column=4" alt="Trophies" /&gt;
 &lt;/p&gt;
 
 ---
@@ -39,7 +60,7 @@
 - 👯 I’m looking to collaborate on **Python, ML, or Data Science projects**
 - 💬 Ask me about **Python, Pandas, or getting started with ML**
 - 📫 How to reach me: **[smarpitmalik@gmail.com](mailto:smarpitmalik@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/smarpit-malik-518250289/)**
-- 
+- ⚡ Fun fact: **I debug neural networks more than my own sleep schedule 😅**
 
 ---
 
@@ -48,5 +69,3 @@
   &lt;br/&gt;
   &lt;i&gt;Thanks for stopping by!&lt;/i&gt;
 &lt;/p&gt;
-
--

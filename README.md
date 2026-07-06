@@ -44,11 +44,11 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **ML & Data Science projects**
-- 🌱 I’m currently learning **Machine Learning, Deep Learning & Data Analytics**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning & Data Structures and Algorithms**
 - 👯 I’m looking to collaborate on **Python, ML, or Data Science projects**
 - 💬 Ask me about **Python, Pandas, or getting started with ML**
 - 📫 How to reach me: **[smarpitmalik@gmail.com](mailto:smarpitmalik@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/smarpit-malik-518250289/)**
-- ⚡ Fun fact: **I debug neural networks more than my own sleep schedule 😅**
+
 
 ---
 

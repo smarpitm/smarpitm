@@ -12,9 +12,9 @@
 
 ---
 
-## ⚡ What I've built
+## What I've built
 
-### 🔐 PRAMANAM — document & certificate verification &nbsp; [![LIVE](https://img.shields.io/badge/%F0%9F%9F%A2_LIVE-sih--2026--pramanam.vercel.app-00C853?style=flat-square&logo=vercel&logoColor=white)](https://sih-2026-pramanam.vercel.app/)
+### PRAMANAM — document & certificate verification &nbsp; [![LIVE](https://img.shields.io/badge/LIVE-sih--2026--pramanam.vercel.app-00C853?style=flat-square&logo=vercel&logoColor=white)](https://sih-2026-pramanam.vercel.app/)
 
 Smart India Hackathon 2026. I owned the **crypto verification core** (JWS-signed QR codes) and the **PDF generation pipeline**. Six-person team — live in production, not a prototype.
 
@@ -22,12 +22,12 @@ Smart India Hackathon 2026. I owned the **crypto verification core** (JWS-signed
 
 | | |
 |---|---|
-| 🏆 **Hackathons** | NHAI Hackathon 7.0 **finalist** (CV liveness module) · Hack4Delhi (RAG) · Hack2skill · HackAgentAIx — I sign up for too many of these |
-| 🤖 **Agent tooling** | I write skills for coding agents — [**youtube-playlist-skill**](https://github.com/smarpitm/youtube-playlist-skill) turns any topic into a real public YouTube playlist, installable straight into your agent |
+| **Hackathons** | NHAI Hackathon 7.0 **finalist** (CV liveness module) · Hack4Delhi (RAG) · Hack2skill · HackAgentAIx — I sign up for too many of these |
+| **Agent tooling** | I write skills for coding agents — [**youtube-playlist-skill**](https://github.com/smarpitm/youtube-playlist-skill) turns any topic into a real public YouTube playlist, installable straight into your agent |
 
 ---
 
-## 🧭 How my team runs
+## How my team runs
 
 > `context.txt` frozen contract → per-person prompt books → human-reviewed merges
 
@@ -35,27 +35,27 @@ Our SIH sprint ran on a workflow I set up: a contract file everyone reads before
 
 ---
 
-## 📍 Right now
+## Right now
 
-| Status | Focus |
+| Focus | What it looks like |
 |---|---|
-| 🔥 **DSA grind** | C++, every day. First 20 minutes of every problem are mine, no agent help — the OA room won't have an AI copilot in it |
-| 🧠 **PyTorch, properly** | *"I've used LLM APIs"* and *"I know ML"* are different sentences. I'm earning the second one |
-| 🚀 **PRAMANAM** | Keeping it alive after the hackathon — uptime, fixes, real users |
+| **DSA grind** | C++, every day. First 20 minutes of every problem are mine, no agent help — the OA room won't have an AI copilot in it |
+| **PyTorch, properly** | *"I've used LLM APIs"* and *"I know ML"* are different sentences. I'm earning the second one |
+| **PRAMANAM** | Keeping it alive after the hackathon — uptime, fixes, real users |
 
 ---
 
-## 🧰 Stack
+## Stack
 
 | Level | Tools |
 |---|---|
-| 🟢 **Daily** | TypeScript · Next.js · Python · PostgreSQL · Git |
-| 🟡 **Dangerous** | FastAPI · Redis · Docker · C++ |
-| 🔵 **Learning for real** | PyTorch · ML fundamentals |
+| **Daily** | TypeScript · Next.js · Python · PostgreSQL · Git |
+| **Dangerous** | FastAPI · Redis · Docker · C++ |
+| **Learning for real** | PyTorch · ML fundamentals |
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smarpitm&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="48%" alt="GitHub stats" />

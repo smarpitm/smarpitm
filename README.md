@@ -37,9 +37,11 @@ Our SIH sprint ran on a workflow I set up: a contract file everyone reads before
 
 ## 📍 Right now
 
-- 🔥 **Grinding DSA in C++** — first 20 minutes of every problem are mine, no agent help. The OA room won't have an AI copilot in it.
-- 🧠 **Learning PyTorch properly** — *"I've used LLM APIs"* and *"I know ML"* are different sentences, and I want to earn the second one.
-- 🚀 **Keeping PRAMANAM alive** after the hackathon.
+| Status | Focus |
+|---|---|
+| 🔥 **DSA grind** | C++, every day. First 20 minutes of every problem are mine, no agent help — the OA room won't have an AI copilot in it |
+| 🧠 **PyTorch, properly** | *"I've used LLM APIs"* and *"I know ML"* are different sentences. I'm earning the second one |
+| 🚀 **PRAMANAM** | Keeping it alive after the hackathon — uptime, fixes, real users |
 
 ---
 
@@ -58,5 +60,8 @@ Our SIH sprint ran on a workflow I set up: a contract file everyone reads before
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smarpitm&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="48%" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarpitm&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=smarpitm&theme=tokyonight&hide_border=true&locale=en" width="70%" alt="GitHub streak" />
 </div>
+
 

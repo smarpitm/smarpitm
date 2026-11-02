@@ -79,8 +79,8 @@ I author modular, production-ready skills for AI coding agents (Cline, Claude Co
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smarpitm&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarpitm&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=smarpitm&theme=tokyonight&hide_border=true&locale=en" width="70%" alt="GitHub streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smarpitm&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smarpitm&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top languages" />
+  <br/><br/>
+  <img src="https://ghchart.rshah.org/00baf2/smarpitm" width="94%" alt="Smarpit's GitHub Contribution Chart" />
 </div>
